@@ -1,7 +1,7 @@
 # Updating the README content with the specified repository folder name
 
 updated_readme_content = """
-# Assignment Name
+# Assignment Name: CONTACT MANAGEMENT SYSTEM
 
 ## Table of Contents
 - [Project Description](#project-description)
